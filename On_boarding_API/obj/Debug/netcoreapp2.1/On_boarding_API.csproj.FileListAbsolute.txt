@@ -1,0 +1,28 @@
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\bin\Debug\netcoreapp2.1\On_boarding_API.deps.json
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\bin\Debug\netcoreapp2.1\On_boarding_API.runtimeconfig.json
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\bin\Debug\netcoreapp2.1\On_boarding_API.runtimeconfig.dev.json
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\bin\Debug\netcoreapp2.1\On_boarding_API.dll
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\bin\Debug\netcoreapp2.1\On_boarding_API.pdb
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.csprojAssemblyReference.cache
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.csproj.CoreCompileInputs.cache
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.RazorAssemblyInfo.cache
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.RazorAssemblyInfo.cs
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.AssemblyInfoInputs.cache
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.AssemblyInfo.cs
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.RazorTargetAssemblyInfo.cache
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.dll
+C:\Users\YasasWeerasingheBIST\source\repos\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.pdb
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.csproj.CoreCompileInputs.cache
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.RazorAssemblyInfo.cache
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.RazorAssemblyInfo.cs
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.AssemblyInfoInputs.cache
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.AssemblyInfo.cs
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.RazorTargetAssemblyInfo.cache
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.dll
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.pdb
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\bin\Debug\netcoreapp2.1\On_boarding_API.deps.json
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\bin\Debug\netcoreapp2.1\On_boarding_API.runtimeconfig.json
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\bin\Debug\netcoreapp2.1\On_boarding_API.runtimeconfig.dev.json
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\bin\Debug\netcoreapp2.1\On_boarding_API.dll
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\bin\Debug\netcoreapp2.1\On_boarding_API.pdb
+C:\Users\YasasWeerasingheBIST\OneDrive - BisTecGlobal\Desktop\On_bording\Projects\WEB_API_T01\On_boarding_API\On_boarding_API\obj\Debug\netcoreapp2.1\On_boarding_API.csprojAssemblyReference.cache
